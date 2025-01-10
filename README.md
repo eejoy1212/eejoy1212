@@ -38,7 +38,7 @@
           <img width="12" />
           <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
           <img width="12" />
-          <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+          <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
           <img width="12" />
     </div>
     <div style="text-align: left;"> 
