@@ -1,11 +1,16 @@
-<h2 align="left">Hi 👋! Making everyday life convenient and turning ideas into reality — I'm developer Wonhee Lee.</h2>
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=HI%20I%20AM%20WONHEE%20👋&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> I am fullstack developer 💻 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Making everyday life convenient and turning ideas into reality — I'm developer Wonhee Lee. </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=eejoy1212&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejoy1212&layout=compact&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
