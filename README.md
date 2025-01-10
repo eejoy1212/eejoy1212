@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is WONHEE LEE</h2>
+<div align="center">
+  <img src="https://github.com/eejoy1212/eejoy1212/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eejoy1212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
