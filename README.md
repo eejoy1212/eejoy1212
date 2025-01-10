@@ -26,7 +26,7 @@
           <img width="12" />
           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
           <img width="12" />
-          <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
           <img width="12" />
           <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
           <img width="12" />
@@ -40,8 +40,8 @@
           <img width="12" />
     </div>
          <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Study </h2> 
-          <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📝 Study </h2> 
+          <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
           <img width="12" />
     </div>
     
